@@ -1,4 +1,4 @@
-pragma solidity 0.6.4;
+pragma solidity ^0.5.1;
 
 import "../EllipticCurve.sol";
 import "../FastEcMul.sol";
