@@ -1,10 +1,10 @@
 {
-  "name": "@ethpoker/elliptic-curve-solidity",
-  "version": "0.2.4",
+  "name": "@moonpoker/elliptic-curve-solidity",
+  "version": "0.2.5",
   "description": "Elliptic Curve arithmetic for up to 256-bit curves written in solidity",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethpoker/elliptic-curve-solidity.git"
+    "url": "git+https://github.com/moonpoker/elliptic-curve-solidity.git"
   },
   "keywords": [
     "cryptography",
@@ -21,9 +21,9 @@
   "author": "Witnet Foundation <info@witnet.foundation>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ethpoker/elliptic-curve-solidity/issues"
+    "url": "https://github.com/moonpoker/elliptic-curve-solidity/issues"
   },
-  "homepage": "https://github.com/ethpoker/elliptic-curve-solidity#readme",
+  "homepage": "https://github.com/moonpoker/elliptic-curve-solidity#readme",
   "scripts": {
     "test": "truffle test",
     "test:local": "truffle test --network local",
